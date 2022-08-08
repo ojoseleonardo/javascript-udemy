@@ -1,4 +1,4 @@
-console.log('Teste')
-console.log('Fodase')
+let salario = true
+console.log(typeof salario)
 
 
