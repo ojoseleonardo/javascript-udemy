@@ -1,0 +1,5 @@
+console.log(7/0.00000000001)
+console.log("10" * 4)
+console.log("10,3" * 4)
+// console.log(10.toString())
+console.log((10.45678).toFixed(100))
